@@ -1,12 +1,22 @@
-# React + Vite
+# 🚚 탱크모터스 차량 판매 웹사이트
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React + TailwindCSS 기반으로 만들어보는 중고 차량 판매 사이트입니다.  
+1톤 화물차, 특장차, 내장탑차 등을 웹에서 확인하고 관리할 수 있는 프로젝트입니다.
 
-Currently, two official plugins are available:
+## 🛠 기술 스택
+- React (Vite)
+- TailwindCSS
+- Git & GitHub
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📦 기능 예정
+- 차량 카드형 리스트 구성
+- 상세페이지 연결
+- 관리자 로그인 후 차량 등록/삭제
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📷 시안
+추후 디자인 스크린샷 추가 예정
+
+## 💡 포트폴리오 목적
+- 실무 기반으로 React + Git 워크플로우 익히기
+- 중소형 비즈니스용 커스터마이징 가능한 웹 플랫폼 경험
